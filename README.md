@@ -74,7 +74,18 @@ streamlit run house_price_app.py
 
 - Deploy the app online (Streamlit Cloud, Heroku) for public access.
 
-## 📸 Screenshots and videos
+## 📸 Screenshots
+### Code for training the model
+<img width="1919" height="571" alt="Image" src="https://github.com/user-attachments/assets/ece018f2-7641-4593-a428-db9c0c2bf410" />
+
+### Trained the model
+<img width="1918" height="766" alt="Image" src="https://github.com/user-attachments/assets/6cbbfd21-2b40-46cd-b7c7-5aba8414e556" />
+
+### Code for predicting the model
+<img width="1329" height="709" alt="Image" src="https://github.com/user-attachments/assets/79c84bdc-0a13-4813-9616-16aaf63463ab" />
+
+### Web page 
+<img width="1919" height="1066" alt="Image" src="https://github.com/user-attachments/assets/eb612310-41b6-4971-b2e0-b551e170472c" />
 
 
 ## 🔑 Setup & Usage
