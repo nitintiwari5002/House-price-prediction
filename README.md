@@ -91,8 +91,8 @@ streamlit run house_price_app.py
 ## 🔑 Setup & Usage
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/nitintiwari5002/stocks-analysis-powerbi.git
-   cd stocks-analysis-powerbi
+   git clone https://github.com/nitintiwari5002/House-price-prediction.git
+   cd House-price-prediction
 
 ---
 
